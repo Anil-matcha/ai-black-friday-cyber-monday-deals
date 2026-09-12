@@ -1,0 +1,77 @@
+name: Submit a deal
+description: Submit a verifiable AI, developer, creator, or automation deal.
+title: "[Deal] "
+labels:
+  - deal-submission
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Please submit only offers that can be verified against an official vendor source.
+  - type: input
+    id: product
+    attributes:
+      label: Product and company
+      placeholder: Product — Company
+    validations:
+      required: true
+  - type: dropdown
+    id: category
+    attributes:
+      label: Category
+      options:
+        - AI coding & developer tools
+        - AI image, video, audio & voice
+        - AI agents & automation
+        - AI marketing, SEO & writing
+        - AI APIs & infrastructure
+        - Creator tools
+        - Developer tools
+    validations:
+      required: true
+  - type: textarea
+    id: offer
+    attributes:
+      label: Offer details
+      description: Include regular price, sale price, discount, plan, and deal type.
+    validations:
+      required: true
+  - type: input
+    id: official_url
+    attributes:
+      label: Official offer or pricing URL
+      placeholder: https://example.com/pricing
+    validations:
+      required: true
+  - type: input
+    id: coupon_code
+    attributes:
+      label: Coupon code
+      placeholder: NO_CODE or the exact code
+    validations:
+      required: true
+  - type: input
+    id: dates
+    attributes:
+      label: Start and end dates
+      placeholder: 2026-11-27 through 2026-11-30 UTC
+    validations:
+      required: true
+  - type: textarea
+    id: eligibility
+    attributes:
+      label: Eligibility and renewal terms
+      description: State new-user restrictions, regions, renewal price, and other caveats.
+    validations:
+      required: true
+  - type: checkboxes
+    id: confirmations
+    attributes:
+      label: Confirmations
+      options:
+        - label: I checked the offer against the official source.
+          required: true
+        - label: The dates and price are accurate as submitted.
+          required: true
+        - label: I am not submitting an unverified prediction or copied coupon.
+          required: true
