@@ -8,7 +8,41 @@ Black Friday 2026 is Friday, November 27. Cyber Monday is Monday, November 30.
 
 ## 2026 deals
 
-No verified 2026 offers have been published yet. Submit an offer with the [deal submission checklist](CONTRIBUTING.md), and it will be reviewed before inclusion.
+**2026 deals are coming soon.** Verified offers will move into the active list as vendors publish official terms. Until then, this repository has an initial watchlist of products and deal leads discovered across current 2026 deal pages.
+
+> ⚠️ Watchlist entries are not confirmed offers. Do not use a listed percentage or code at checkout unless the vendor's own page confirms it.
+
+### 2026 watchlist — leads to verify
+
+| Status | Product | Category | 2026 lead |
+| --- | --- | --- | --- |
+| 👀 | SEO PowerSuite | AI SEO & developer tools | Up to 75% off reported in historical tracking; no vendor-confirmed 2026 offer yet. ([source](https://zplatform.ai/ai-deals/best-black-friday-ai-deals-2026/)) |
+| 👀 | Scalenut | AI marketing & writing | Up to 60% off reported from prior sale history; 2026 terms not announced by the vendor. ([source](https://zplatform.ai/ai-deals/best-black-friday-ai-deals-2026/)) |
+| 👀 | Grammarly | AI writing | Around 50% off is reported as a recurring pattern; verify the 2026 plan and renewal terms. ([source](https://zplatform.ai/ai-deals/best-black-friday-ai-deals-2026/)) |
+| 👀 | QuillBot | AI writing | Recurring seasonal discount lead; no confirmed 2026 code or dates yet. ([source](https://zplatform.ai/ai-deals/best-black-friday-ai-deals-2026/)) |
+| 👀 | Pictory | AI video | Around 50% off annual plans is reported as historical guidance; not a confirmed 2026 offer. ([source](https://zplatform.ai/ai-deals/best-black-friday-ai-deals-2026/)) |
+| 👀 | Suno | AI music & audio | Around 40% off annual plans is reported as a historical pattern; verify directly. ([source](https://zplatform.ai/ai-deals/best-black-friday-ai-deals-2026/)) |
+| 👀 | Grok | AI assistants | Listed as a product to watch; no verified 2026 offer was found. ([source](https://blackfriday.tools/)) |
+| 👀 | InVideo | AI video & creator tools | A 2026 deal page reports up to 50% off annual plans; vendor confirmation is still required. ([source](https://www.greatblackfriday.com/)) |
+| 👀 | Freepik / Magnific | AI design & creator tools | A 2026 deal page reports up to 50% off; verify product scope and price at the official site. ([source](https://www.greatblackfriday.com/)) |
+| 👀 | Kittl | AI design & creator tools | A 2026 deal page reports up to 40% off annual plans; not yet vendor-confirmed here. ([source](https://www.greatblackfriday.com/)) |
+| 👀 | ChatGPT | AI assistants | No verified Black Friday 2026 offer spotted. ([source](https://blackfriday.tools/)) |
+| 👀 | Claude | AI assistants | No verified Black Friday 2026 offer spotted. ([source](https://blackfriday.tools/)) |
+| 👀 | Gemini | AI assistants | No verified Black Friday 2026 offer spotted. ([source](https://blackfriday.tools/)) |
+
+The complete lead set is available in [`data/watchlist.csv`](data/watchlist.csv). Submit an official source to move an entry from the watchlist into [`data/deals.csv`](data/deals.csv).
+
+### 2026 research sources
+
+| Source | Coverage | How we use it |
+| --- | --- | --- |
+| [BlackFriday.tools](https://blackfriday.tools/) | Software, SaaS, and AI tools | Lead discovery; listings claim hand verification, but many codes are still coming soon. |
+| [EveryAny](https://everyany.one/black-friday/) | 135 tracked software products | Status cross-check; only vendor-linked offers qualify as confirmed. |
+| [ZPlatform AI](https://zplatform.ai/ai-deals/best-black-friday-ai-deals-2026/) | 90 software products, including 60 AI tools | Historical and expected-deal research, not proof of a 2026 vendor announcement. |
+| [GreatBlackFriday](https://www.greatblackfriday.com/) | SaaS, design, WordPress, and creator tools | Lead discovery; expected offers require independent verification. |
+| [FounderPass](https://www.founderpass.com/black-friday-deals) | SaaS and business software | Lead discovery only; the page mixes 2026, recurring, and older offers. |
+| [TheBlackFriday.com.ng](https://www.theblackfriday.com.ng/best-black-friday-software-deals/) | Consumer and professional software | Lead discovery only; affiliate links and mixed live/upcoming claims require verification. |
+| [GrabLTD](https://grabltd.com/black-friday-deals) | Lifetime SaaS and AI offers | Marketplace lead discovery; not every listed offer is specifically a Black Friday 2026 promotion. |
 
 ## Categories
 
