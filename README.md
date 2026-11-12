@@ -26,6 +26,7 @@ Black Friday 2026 is Friday, November 27. Cyber Monday is Monday, November 30.
 | 👀 | InVideo | AI video & creator tools | A 2026 deal page reports up to 50% off annual plans; vendor confirmation is still required. ([source](https://www.greatblackfriday.com/)) |
 | 👀 | Freepik / Magnific | AI design & creator tools | A 2026 deal page reports up to 50% off; verify product scope and price at the official site. ([source](https://www.greatblackfriday.com/)) |
 | 👀 | Kittl | AI design & creator tools | A 2026 deal page reports up to 40% off annual plans; not yet vendor-confirmed here. ([source](https://www.greatblackfriday.com/)) |
+| 👀 | Sip | Creator tools | Vendor-submitted 50% off for the macOS color picker: `BLACKFRIDAY26` Nov 27–29 and `CYBERMONDAY26` Nov 30–Dec 2, 2026. Verify the official campaign pages before moving it into confirmed deals. ([source](https://sipapp.io/blackfriday/)) |
 | 👀 | ChatGPT | AI assistants | No verified Black Friday 2026 offer spotted. ([source](https://blackfriday.tools/)) |
 | 👀 | Claude | AI assistants | No verified Black Friday 2026 offer spotted. ([source](https://blackfriday.tools/)) |
 | 👀 | Gemini | AI assistants | No verified Black Friday 2026 offer spotted. ([source](https://blackfriday.tools/)) |
